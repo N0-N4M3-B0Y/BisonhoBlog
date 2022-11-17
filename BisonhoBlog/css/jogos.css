@@ -11,7 +11,7 @@ body{
 /* INÍCIO DO HEADER - CABEÇALHO*/
 #area-cabecalho{
     padding: 0.9rem;
-    background-color: #f7b600;
+    background-color: #ff2400;
     text-align: center;
 }
 
@@ -35,7 +35,7 @@ body{
 /* NAV - EFEITOS HOVER LINKS DAS ANCORAS*/
 #area-menu a:hover{
     background-color: #fff;
-    color: #f7b600;
+    color: #ff2400;
 }
 
 #area-principal{
@@ -64,7 +64,7 @@ body{
     width: 39rem;
 }
 .postagem-titulo{
-    color: #f7b600;
+    color: #ff2400;
 }
 .postagem-data{
     font-size: 0.8rem;
@@ -88,7 +88,7 @@ body{
 }
 
 .postagem a:visited, .postagem a:link {
-    color: #f7b600;
+    color: #ff2400;
 }
 .postagem a:hover{
     text-decoration: underline;
@@ -111,7 +111,7 @@ body{
 }
 .conteudo-lateral a{
     text-decoration: none;
-    color: #f7b600;
+    color: #ff2400;
 }
 
 .conteudo-lateral a:hover{
